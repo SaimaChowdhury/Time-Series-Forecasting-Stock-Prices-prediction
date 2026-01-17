@@ -1,5 +1,5 @@
 ## How to Run This Notebook ##
-------------------------------------------------------------
+----------------------------------------------------------
 
 This notebook contains code for Time-Series Forecasting – Stock Prices. To run the code:
 
