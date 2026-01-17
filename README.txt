@@ -18,13 +18,13 @@ This project focuses on forecasting stock prices using time-series analysis tech
 
 🚀 Features
 
-Data preprocessing and exploratory analysis
+Data preprocessing and exploratory analysis.
 
-Time-series forecasting using ARIMA and Prophet
+Time-series forecasting using ARIMA and Prophet.
 
-Rolling window evaluation for robust performance comparison
+Rolling window evaluation for robust performance comparison.
 
-Model evaluation using RMSE and MAPE
+Model evaluation using RMSE and MAPE.
 
 
 
