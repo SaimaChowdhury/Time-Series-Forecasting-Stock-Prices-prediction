@@ -1,3 +1,5 @@
+📈 Time Series Forecasting – Stock Prices
+
 ## How to Run This Notebook ##
 ----------------------------------------------------------
 
@@ -11,8 +13,6 @@ This notebook contains code for Time-Series Forecasting – Stock Prices. To run
 
 
 ---
-
-📈 Time Series Forecasting – Stock Prices
 
 This project focuses on forecasting stock prices using time-series analysis techniques in Python. The goal is to analyze historical stock data, model trends and seasonality, and predict future prices.
 
